@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wasatnight.github.io/software-solutions/sitemap.xml
